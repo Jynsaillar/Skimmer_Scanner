@@ -23,6 +23,12 @@ Documentation
 
 * **[Gas Pump Skimmers Tutorial](https://learn.sparkfun.com/tutorials/gas-pump-skimmers)** - Read all about how these skimmers work.
 
+Additional Information & Resources
+----------------------------------
+* **[Article on Bluetooth Skimmers by Signils (Google Cache)](https://webcache.googleusercontent.com/search?q=cache:cEuOrbw0wOgJ:https://www.signils.com/bluetooth-credit-card-skimmers/)** - More skimmer IDs (HC-05, HC-06, HC-08, FREE2MOVE)
+* **[Article on a Skimmer Detector by Cameron Coward at hackster.io](https://www.hackster.io/news/protect-your-credit-card-by-building-a-skimmer-detector-with-a-raspberry-pi-f670f94ffcb2)** - Another known skimmer ID (HC-03)
+* **[Article clarifying the difference between GPS Tracker & Credit Card Skimmer by Krebs on Security](https://krebsonsecurity.com/2019/02/new-breed-of-fuel-pump-skimmer-uses-sms-and-bluetooth/)** - Another ID (FCD_1608)
+
 License Information
 -------------------
 
